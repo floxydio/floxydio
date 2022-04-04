@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on **Rekeningku**
 
-- 🌱 I’m currently learning **Kotlin and Flutter**
+- 🌱 I’m currently learning **Golang and Flutter**
 
 - 💬 Ask me about **Golang, React & Flutter**
 
 - 📫 How to reach me **diooktar@gmail.com**
-
-- ⚡ Fun fact **I think i am ugly :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
