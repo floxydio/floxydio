@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang and Flutter**
 
-- 💬 Ask me about **Golang, React & Flutter**
+- 💬 Ask me about **Golang, JS & Flutter**
 
 - 📫 How to reach me **diooktar@gmail.com**
 
