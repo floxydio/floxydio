@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floxydio&label=Profile%20views&color=0e75b6&style=flat" alt="floxydio" /> </p>
 
-- 🔭 I’m currently working on **Rekeningku**
-
 - 🌱 I’m currently learning **Golang and Flutter**
 
 - 💬 Ask me about **Golang, JS & Flutter**
