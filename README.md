@@ -1,12 +1,14 @@
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floxydio&label=Profile%20views&color=0e75b6&style=flat" alt="floxydio" /> </p>
 
-- 🧑‍💼 CTO at WeSport and Founder at Kontrakin
+- 🧑‍💼 Founder at Kontrakin
 
-- 💬 Ask me about **Golang, JS & Flutter**
+- 💬 Focus On Mobile Development, Backend Development & Software Engineering
 
 - 📫 How to reach me **diooktar@gmail.com**
+
+See My Package :
+  Flutter -> <a href="https://pub.dev/packages/floxy_style" target="blank">Click Here</a>
+  CSS Framework -> <a href="https://www.npmjs.com/package/ckr-css" target="blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
