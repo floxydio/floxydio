@@ -2,13 +2,13 @@
 
 - 🧑‍💼 Founder at Kontrakin
 
-- 💬 Focus On Mobile Development, Backend Development & Software Engineering
+- 💬 Focus On Software Engineering ( Backend & Mobile )
 
 - 📫 How to reach me **diooktar@gmail.com**
 
-See My Package :
-  Flutter -> <a href="https://pub.dev/packages/floxy_style" target="blank">Click Here</a>
-  CSS Framework -> <a href="https://www.npmjs.com/package/ckr-css" target="blank">Click Here</a>
+See My Package : <br>
+  Flutter -> <a href="https://pub.dev/packages/floxy_style" target="blank">Click Here</a> <br>
+  CSS Framework -> <a href="https://www.npmjs.com/package/ckr-css" target="blank">Click Here</a> <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
