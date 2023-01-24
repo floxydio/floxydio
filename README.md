@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floxydio&label=Profile%20views&color=0e75b6&style=flat" alt="floxydio" /> </p>
 
-- 🧑‍💼 Founder at Kontrakin
+- 🧑‍💼 Founder at KontrakDana
 
 - 💬 Focus On Software Engineering ( Backend & Mobile )
 
