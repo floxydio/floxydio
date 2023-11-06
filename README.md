@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BNI<br>🤝 I’m looking for help with Frontend or Backend Technology<br>🌱 I’m currently learning React Native & Infra<br>💬 Ask me about Flutter, Golang & React Ecosystem<br>
+🔭 I’m currently working on BNI<br>🌱 I’m currently learning React Native & Infra<br>💬 Ask me about Flutter, Golang & React Ecosystem<br>
 
 
 ## 🌐 Socials:
