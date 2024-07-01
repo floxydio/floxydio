@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bank Negara Indonesia<br>💬 Ask me about Flutter, Golang & Typescript<br>
+<br>💬 Ask me about Flutter, Golang & Typescript<br>
 
 
 ## 🌐 Socials:
